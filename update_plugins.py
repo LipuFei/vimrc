@@ -49,6 +49,7 @@ vim-repeat https://github.com/tpope/vim-repeat
 vim-commentary https://github.com/tpope/vim-commentary
 vim-go https://github.com/fatih/vim-go
 vim-gitgutter https://github.com/airblade/vim-gitgutter
+vim-ansible-yaml https://github.com/chase/vim-ansible-yaml
 gruvbox https://github.com/morhetz/gruvbox
 vim-flake8 https://github.com/nvie/vim-flake8
 vim-pug https://github.com/digitaltoad/vim-pug
